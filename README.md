@@ -7,7 +7,7 @@ Full Stack developer
 I've been passionate about technology and problem-solving since my early days in development. Starting with web basics like HTML and CSS, I quickly grew interested in backend development, leading me to master frameworks and languages that support full stack solutions. Today, I work on complex projects that require a mix of front-end creativity and back-end efficiency, developing apps and systems that solve real-world challenges. I'm always keen to learn new technologies and refine my skills, with a focus on building reliable, scalable, and user-friendly applications. If you’d like to collaborate on innovative projects or explore ideas, feel free to connect!
 
 * 🌍  I'm based in Somalia
-* 🖥️  See my portfolio at [abdirizak](http://abdi.geckloo.com)
+* 🖥️  See my portfolio at [abdirizak](http://abdirizak.geckloo.com)
 * ✉️  You can contact me at [abdirizakomar254@gmail.com](mailto:abdirizakomar254@gmail.com)
 * 🚀  I'm currently working on [School Management System](http://dugsi.geckloo.com)
 * 🧠  I'm learning Laravel RESTFull API's
